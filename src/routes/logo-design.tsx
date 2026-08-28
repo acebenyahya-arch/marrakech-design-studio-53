@@ -8,16 +8,16 @@ import { WhatsappButton } from "@/components/site/WhatsappButton";
 export const Route = createFileRoute("/logo-design")({
   head: () => ({
     meta: [
-      { title: "Logo Design in Marrakech | Freelance Graphic Designer" },
+      { title: "walid.graphics | Logo Design" },
       {
         name: "description",
         content:
-          "Unique, memorable logo design in Marrakech. A distinctive mark with strong visual impact, custom tailored to your brand.",
+          "Unique, memorable visuals. A distinctive mark with strong visual impact, custom tailored to your brand.",
       },
-      { property: "og:title", content: "Logo Design in Marrakech | Freelance Graphic Designer" },
+      { property: "og:title", content: "walid.graphics | Logo Design" },
       {
         property: "og:description",
-        content: "Assert your identity with a unique logo that strengthens brand recognition.",
+        content: "Assert your identity with a unique design that strengthens brand recognition.",
       },
     ],
   }),
@@ -69,7 +69,7 @@ function LogoDesign() {
             )}
           </ul>
           <div className="mt-10">
-            <WhatsappButton label="Start my logo project" />
+            <WhatsappButton label="Bring your ideas to life" />
           </div>
         </div>
       </section>
