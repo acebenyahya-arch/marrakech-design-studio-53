@@ -230,7 +230,7 @@ function Index() {
         <div className="mx-auto max-w-6xl px-5 py-20">
           <p className="eyebrow">Key projects</p>
           <h2 className="mt-4 max-w-2xl text-4xl md:text-5xl">
-            My work as a graphic designer
+            My work
           </h2>
           <p className="mt-5 max-w-2xl text-muted-foreground">
             Throughout my journey of continuous visualisation, I have had the chance to work
@@ -320,7 +320,7 @@ function Index() {
         <div className="mx-auto max-w-6xl px-5 py-20">
           <p className="eyebrow">My approach</p>
           <h2 className="mt-4 max-w-3xl text-4xl md:text-5xl">
-            My working process, step by step, as a graphic designer
+            My work process, step by step
           </h2>
 
           <ol className="mt-12 grid gap-10 md:grid-cols-2">
