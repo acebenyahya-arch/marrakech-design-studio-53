@@ -11,8 +11,8 @@ export function WhatsappButton({
     "inline-flex items-center gap-2 rounded-full px-7 py-3.5 text-sm font-medium transition-all hover:-translate-y-0.5";
   const styles =
     variant === "solid"
-      ? "bg-primary text-primary-foreground shadow-[var(--shadow-soft)] hover:opacity-95"
-      : "border border-current text-foreground hover:bg-accent";
+      ? "bg-primary text-primary-foreground hover:glow-ring"
+      : "border border-border bg-card/60 text-foreground hover:border-primary";
 
   return (
     <a
