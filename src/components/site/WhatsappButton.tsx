@@ -16,7 +16,7 @@ export function WhatsappButton({
 
   return (
     <a
-      href="https://wa.me/‪212784092681"
+      href="https://wa.me/212784092681"
       target="_blank"
       rel="noreferrer"
       className={`${base} ${styles}`}
