@@ -37,7 +37,7 @@ export function SiteFooter() {
           <p className="eyebrow">Get in touch</p>
           <ul className="mt-4 space-y-2 text-muted-foreground">
             <li>
-              <a href="tel:+https://wa.me/212784092681" className="transition-colors hover:text-primary">
+              <a href="tel:+212784092681" className="transition-colors hover:text-primary">
                 +212 784-092681
               </a>
             </li>
@@ -51,7 +51,6 @@ export function SiteFooter() {
                 WhatsApp
               </a>
             </li>
-            <li>Morocco</li>
           </ul>
         </div>
       </div>
