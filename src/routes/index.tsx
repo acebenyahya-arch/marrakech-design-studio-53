@@ -69,7 +69,7 @@ const services = [
   {
     title: "Logo Design",
     text: "Assert your identity with a unique logo that catches the eye and strengthens brand recognition.",
-    points: ["What your clients can recognize", "Strong visual impact", "Custom tailored design"],
+    points: ["Clients' recognition", "Strong visual impact", "Custom tailored design"],
   },
   {
     title: "Brand Guidelines",
