@@ -8,13 +8,13 @@ import { WhatsappButton } from "@/components/site/WhatsappButton";
 export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
-      { title: "Contact | Freelance Graphic Designer in Marrakech" },
+      { title: "walid.graphics | Contact" },
       {
         name: "description",
         content:
-          "Got a project in mind? Reach out to a freelance graphic designer in Marrakech by WhatsApp or phone: +212 6 33 54 04 22.",
+          "Got a project in mind? Reach out to me by WhatsApp or phone: +212 7 84 09 26 81.",
       },
-      { property: "og:title", content: "Contact | Freelance Graphic Designer in Marrakech" },
+      { property: "og:title", content: "walid.graphics | Contact" },
       {
         property: "og:description",
         content: "Let's talk about your logo, brand guidelines or web design project.",
@@ -36,7 +36,7 @@ function Contact() {
             Let's get in touch <span className="italic text-primary">today</span>
           </h1>
           <p className="mt-6 max-w-md text-muted-foreground">
-            Tell me about your brand, your goals and your timeline. I reply quickly and will advise
+            Tell me about your brand, your goals and your timeline. I will reply quickly and advise
             you on the right approach at every stage of the creative process.
           </p>
           <div className="mt-9">
@@ -50,8 +50,8 @@ function Contact() {
               <Phone className="mt-1 size-5 text-primary" />
               <div>
                 <p className="text-xs uppercase tracking-widest text-muted-foreground">Phone</p>
-                <a href="tel:+212633540422" className="font-display text-2xl">
-                  +212 6 33 54 04 22
+                <a href="tel:+212784092681" className="font-display text-2xl">
+                  +212 7 84 09 26 81
                 </a>
               </div>
             </li>
@@ -59,9 +59,9 @@ function Contact() {
               <MapPin className="mt-1 size-5 text-primary" />
               <div>
                 <p className="text-xs uppercase tracking-widest text-muted-foreground">Based in</p>
-                <p className="font-display text-2xl">Marrakech, Morocco</p>
+                <p className="font-display text-2xl">Meknès, Morocco</p>
                 <p className="mt-1 text-sm text-muted-foreground">
-                  Working with clients all across Morocco and remotely.
+                  Working with clients all across the world.
                 </p>
               </div>
             </li>
