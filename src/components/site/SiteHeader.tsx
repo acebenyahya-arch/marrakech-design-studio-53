@@ -15,7 +15,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 px-4 pt-4">
       <div className="mx-auto flex max-w-6xl items-center justify-between rounded-2xl border border-border bg-card/70 px-4 py-3 backdrop-blur-xl md:px-6">
         <Link to="/" className="font-display text-lg font-bold tracking-tight">
-          graphiste<span className="text-gradient">.marrakech</span>
+          walid<span className="text-gradient">.graphics</span>
         </Link>
 
         <nav className="hidden items-center gap-1 md:flex">
@@ -34,7 +34,7 @@ export function SiteHeader() {
 
         <div className="flex items-center gap-2">
           <a
-            href="https://wa.me/212633540422"
+            href="https://wa.me/‪212784092681‬"
             target="_blank"
             rel="noreferrer"
             className="hidden rounded-xl bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground transition-all hover:glow-ring md:inline-flex"
@@ -67,7 +67,7 @@ export function SiteHeader() {
               </Link>
             ))}
             <a
-              href="https://wa.me/212633540422"
+              href="https://wa.me/‪212784092681‬"
               target="_blank"
               rel="noreferrer"
               className="mt-2 rounded-xl bg-primary px-4 py-2.5 text-center font-medium text-primary-foreground"
