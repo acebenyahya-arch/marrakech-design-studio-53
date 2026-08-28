@@ -67,7 +67,7 @@ export function SiteHeader() {
               </Link>
             ))}
             <a
-              href="https://wa.me/‪212784092681‬"
+              href="https://wa.me/‪212784092681‬‬"
               target="_blank"
               rel="noreferrer"
               className="mt-2 rounded-xl bg-primary px-4 py-2.5 text-center font-medium text-primary-foreground"
