@@ -1,7 +1,7 @@
 import { MessageCircle } from "lucide-react";
 
 export function WhatsappButton({
-  label = "Contact me on WhatsApp",
+  label = "Request a Design on WhatsApp",
   variant = "solid",
 }: {
   label?: string;
@@ -16,7 +16,7 @@ export function WhatsappButton({
 
   return (
     <a
-      href="https://wa.me/212633540422"
+      href="https://wa.me/‪212784092681‬"
       target="_blank"
       rel="noreferrer"
       className={`${base} ${styles}`}
